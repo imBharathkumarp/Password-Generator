@@ -19,7 +19,7 @@ To get started:
 git clone https://github.com/7BharathKumar/Password-Generator.git
 
 # Navigate into the project directory
-cd Password-generator-project
+cd Password-Generator
 
 # Install required dependencies (if any)
 pip install -r requirements.txt
