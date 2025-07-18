@@ -10,13 +10,21 @@ The **Password Generator** is a Python program designed to generate random, secu
 - 🧑‍💻 Allows users to specify the length of the generated password.
 - 🎓 Perfect for learning Python and practicing string manipulation.
 
+## Include:
+- Uppercase letters ✅
+- Lowercase letters ✅
+- Numbers ✅
+- Symbols (like @, #, $) ✅
+
+---
+
 ## Installation and Usage
 
 To get started:
 
 ```bash
 # Clone the repository
-git clone https://github.com/7BharathKumar/Password-Generator.git
+git clone https://github.com/imBharathkumarp/Password-Generator.git
 
 # Navigate into the project directory
 cd Password-generator-project
@@ -27,3 +35,4 @@ pip install -r requirements.txt
 # Run the password generator program
 python password_generator.py
 ```
+---
